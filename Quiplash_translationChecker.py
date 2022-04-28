@@ -1,5 +1,5 @@
 #! python3
-# finds corresponding data.jet file in QuiplashQuestion folder for each prompt in QuiplashQuestion.jet and replaces untranslated prompt in data.jet with translation from QuiplashQuestion.jet
+# finds corresponding data.jet file in QuiplashQuestion folder for each prompt in QuiplashQuestion.jet and compares the prompt in data.jet with prompt in QuiplashQuestion.jet
 import os, json
 os.chdir(os.path.realpath(__file__).replace('Quiplash_translationChecker.py', ''))
 
