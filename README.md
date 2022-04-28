@@ -1,5 +1,5 @@
 # TranslationDoubler
-A software to facilitate Jackbox translation projects with double folder structure
+A program to facilitate Jackbox translation projects with double folder structure
 
 Two programs, so far for the translation of QuiplashXL from Jackbox PartyPack 2. To make them work, they need to be in the same folder as the folder containing all Quiplash game files. 
 
